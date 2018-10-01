@@ -1,4 +1,4 @@
-# Hacktoberfest Sign In Sheet 2018
+# Hacktoberfest Sign In Sheet 2018 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 This repo is for beginners and above looking to do their first pull request for Hacktoberfest 2018.
 
 ## Instruction
