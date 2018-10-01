@@ -1,5 +1,5 @@
 # Hacktoberfest Sign In Sheet 2018 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-This repo is for beginners and above looking to do their first pull request for Hacktoberfest 2018.
+This repo is for beginners and beyond looking to do their first pull request for Hacktoberfest 2018.
 
 ## Instruction
 In the index file, look for the 'ol' tag. Then insert a 'li' tag with your link to your profile.
