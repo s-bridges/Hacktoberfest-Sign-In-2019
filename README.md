@@ -1,3 +1,6 @@
+# Hacktoberfest-team has announced this repo to be spam as they believe it is not quality. As to not waste your time, I will not be maintaining this repo, and since hacktoberfest-team has marked it as spam in their system, it will not count for one of your 5 PRs. Don't do this for hacktoberfest, do this for open-source, which was the real goal of what Hacktoberfest once set out to do.
+
+
 # Hacktoberfest Sign In Sheet 2019 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Updated for 2019!
 This repo is for beginners and beyond looking to do their first pull request for [Hacktoberfest 2019](https://hacktoberfest.digitalocean.com/).
